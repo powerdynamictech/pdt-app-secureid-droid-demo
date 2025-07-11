@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PowerSdkDemo</string>
+    <string name="power_face_sdk">Power Face SDK</string>
+</resources>

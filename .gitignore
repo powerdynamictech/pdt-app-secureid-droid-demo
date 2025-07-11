@@ -1,0 +1,60 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Proguard
+proguard/
+proguard-*.txt
+
+# Log/IDE files
+*.log
+*.swp
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.cache/
+captures/
+.externalNativeBuild/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Others
+*.DS_Store
+*.log
+*.pyc
+*.pyo
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Google Services (if not public)
+google-services.json
+
+# Ignore local libs folder
+libs/
